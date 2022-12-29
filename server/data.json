@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "owner": "admiralty20",
+      "last_bidder": "Omaro!",
+      "price": "15"
+    },
+    {
+      "name": "Lamborghini S50",
+      "owner": "susaske40",
+      "last_bidder": "Omaro!",
+      "price": "5001"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "100001",
+      "owner": "samson35",
+      "last_bidder": "Omaro!"
+    },
+    {
+      "name": "popo en bolsita",
+      "price": "23",
+      "owner": "Omaro!",
+      "last_bidder": "Omaro!"
+    },
+    {
+      "name": "Audifonos nuevos",
+      "price": "6",
+      "owner": "Omaro!"
+    },
+    {
+      "name": "zapatos viejos",
+      "price": "15",
+      "owner": "Omaro!",
+      "last_bidder": "penaldo"
+    },
+    {
+      "name": "fritos chorizo",
+      "price": "2",
+      "owner": "penaldo",
+      "last_bidder": "penaldo"
+    },
+    {
+      "name": "cafe frio",
+      "price": "2",
+      "owner": "penaldo"
+    }
+  ]
+}
